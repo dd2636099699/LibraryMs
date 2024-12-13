@@ -1,0 +1,390 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Csharp\\001libraryProject\\LibraryMs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\csharp\\001libraryproject\\libraryms\\libraryms\\adminbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryms\\adminbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC9B5A0-2DB8-48EF-B9AF-A3E868F31F5C}|LibraryMs\\LibraryMs.csproj|D:\\Csharp\\001libraryProject\\LibraryMs\\libraryms\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1EC9B5A0-2DB8-48EF-B9AF-A3E868F31F5C}|LibraryMs\\LibraryMs.csproj|solutionrelative:libraryms\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC9B5A0-2DB8-48EF-B9AF-A3E868F31F5C}|LibraryMs\\LibraryMs.csproj|D:\\Csharp\\001libraryProject\\LibraryMs\\libraryms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC9B5A0-2DB8-48EF-B9AF-A3E868F31F5C}|LibraryMs\\LibraryMs.csproj|solutionrelative:libraryms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Csharp\\001libraryProject\\LibraryMs\\libraryms\\edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryms\\edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Csharp\\001libraryProject\\LibraryMs\\libraryms\\edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryms\\edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Csharp\\001libraryProject\\LibraryMs\\libraryms\\adminbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryms\\adminbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Csharp\\001libraryProject\\LibraryMs\\libraryms\\addshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryms\\addshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Csharp\\001libraryProject\\LibraryMs\\libraryms\\addshow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryms\\addshow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Csharp\\001libraryProject\\LibraryMs\\libraryms\\addshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryms\\addshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Csharp\\001libraryProject\\LibraryMs\\libraryms\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryms\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Csharp\\001libraryProject\\LibraryMs\\libraryms\\adminbook.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryms\\adminbook.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Csharp\\001libraryProject\\LibraryMs\\libraryms\\admin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryms\\admin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Csharp\\001libraryProject\\LibraryMs\\libraryms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Csharp\\001libraryProject\\LibraryMs\\libraryms\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryms\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Csharp\\001libraryProject\\LibraryMs\\libraryms\\user1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryms\\user1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Csharp\\001libraryProject\\LibraryMs\\libraryms\\dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryms\\dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Csharp\\001libraryProject\\LibraryMs\\libraryms\\data1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryms\\data1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Csharp\\001libraryProject\\LibraryMs\\libraryms\\library_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryms\\library_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Csharp\\001libraryProject\\LibraryMs\\libraryms\\data.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryms\\data.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Csharp\\001libraryProject\\LibraryMs\\libraryms\\data.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryms\\data.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Csharp\\001libraryProject\\LibraryMs\\libraryms\\data.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryms\\data.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Csharp\\001libraryProject\\LibraryMs\\libraryms\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryms\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Csharp\\001libraryProject\\LibraryMs\\libraryms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:libraryms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "adminBook.cs",
+              "DocumentMoniker": "D:\\Csharp\\001libraryProject\\LibraryMs\\LibraryMs\\adminBook.cs",
+              "RelativeDocumentMoniker": "LibraryMs\\adminBook.cs",
+              "ToolTip": "D:\\Csharp\\001libraryProject\\LibraryMs\\LibraryMs\\adminBook.cs",
+              "RelativeToolTip": "LibraryMs\\adminBook.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAzwKUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T00:12:54.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "edit.cs",
+              "DocumentMoniker": "D:\\Csharp\\001libraryProject\\LibraryMs\\LibraryMs\\edit.cs",
+              "RelativeDocumentMoniker": "LibraryMs\\edit.cs",
+              "ToolTip": "D:\\Csharp\\001libraryProject\\LibraryMs\\LibraryMs\\edit.cs",
+              "RelativeToolTip": "LibraryMs\\edit.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwDcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:47:29.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "edit.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Csharp\\001libraryProject\\LibraryMs\\LibraryMs\\edit.cs",
+              "RelativeDocumentMoniker": "LibraryMs\\edit.cs",
+              "ToolTip": "D:\\Csharp\\001libraryProject\\libraryMs\\LibraryMs\\edit.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "LibraryMs\\edit.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:39:08.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "adminBook.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Csharp\\001libraryProject\\LibraryMs\\LibraryMs\\adminBook.cs",
+              "RelativeDocumentMoniker": "LibraryMs\\adminBook.cs",
+              "ToolTip": "D:\\Csharp\\001libraryProject\\LibraryMs\\LibraryMs\\adminBook.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "LibraryMs\\adminBook.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T01:12:26.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Csharp\\001libraryProject\\LibraryMs\\LibraryMs\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryMs\\Program.cs",
+              "ToolTip": "D:\\Csharp\\001libraryProject\\LibraryMs\\LibraryMs\\Program.cs",
+              "RelativeToolTip": "LibraryMs\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T07:05:37.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "addshow.cs",
+              "DocumentMoniker": "D:\\Csharp\\001libraryProject\\LibraryMs\\LibraryMs\\addshow.cs",
+              "RelativeDocumentMoniker": "LibraryMs\\addshow.cs",
+              "ToolTip": "D:\\Csharp\\001libraryProject\\LibraryMs\\LibraryMs\\addshow.cs",
+              "RelativeToolTip": "LibraryMs\\addshow.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAUwDoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T02:28:04.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "addshow.Designer.cs",
+              "DocumentMoniker": "D:\\Csharp\\001libraryProject\\LibraryMs\\LibraryMs\\addshow.Designer.cs",
+              "RelativeDocumentMoniker": "LibraryMs\\addshow.Designer.cs",
+              "ToolTip": "D:\\Csharp\\001libraryProject\\LibraryMs\\LibraryMs\\addshow.Designer.cs",
+              "RelativeToolTip": "LibraryMs\\addshow.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T03:19:27.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "addshow.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Csharp\\001libraryProject\\LibraryMs\\LibraryMs\\addshow.cs",
+              "RelativeDocumentMoniker": "LibraryMs\\addshow.cs",
+              "ToolTip": "D:\\Csharp\\001libraryProject\\LibraryMs\\LibraryMs\\addshow.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "LibraryMs\\addshow.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T02:27:17.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "admin.cs",
+              "DocumentMoniker": "D:\\Csharp\\001libraryProject\\LibraryMs\\LibraryMs\\admin.cs",
+              "RelativeDocumentMoniker": "LibraryMs\\admin.cs",
+              "ToolTip": "D:\\Csharp\\001libraryProject\\LibraryMs\\LibraryMs\\admin.cs",
+              "RelativeToolTip": "LibraryMs\\admin.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T00:12:54.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "adminBook.Designer.cs",
+              "DocumentMoniker": "D:\\Csharp\\001libraryProject\\LibraryMs\\LibraryMs\\adminBook.Designer.cs",
+              "RelativeDocumentMoniker": "LibraryMs\\adminBook.Designer.cs",
+              "ToolTip": "D:\\Csharp\\001libraryProject\\LibraryMs\\LibraryMs\\adminBook.Designer.cs",
+              "RelativeToolTip": "LibraryMs\\adminBook.Designer.cs",
+              "ViewState": "AgIAAM4AAAAAAAAAAAAAAOcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T00:12:54.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "admin.Designer.cs",
+              "DocumentMoniker": "D:\\Csharp\\001libraryProject\\LibraryMs\\LibraryMs\\admin.Designer.cs",
+              "RelativeDocumentMoniker": "LibraryMs\\admin.Designer.cs",
+              "ToolTip": "D:\\Csharp\\001libraryProject\\LibraryMs\\LibraryMs\\admin.Designer.cs",
+              "RelativeToolTip": "LibraryMs\\admin.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T00:12:53.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\Csharp\\001libraryProject\\LibraryMs\\LibraryMs\\Login.cs",
+              "RelativeDocumentMoniker": "LibraryMs\\Login.cs",
+              "ToolTip": "D:\\Csharp\\001libraryProject\\LibraryMs\\LibraryMs\\Login.cs",
+              "RelativeToolTip": "LibraryMs\\Login.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAowFgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:41:44.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "admin.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Csharp\\001libraryProject\\LibraryMs\\LibraryMs\\admin.cs",
+              "RelativeDocumentMoniker": "LibraryMs\\admin.cs",
+              "ToolTip": "D:\\Csharp\\001libraryProject\\LibraryMs\\LibraryMs\\admin.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "LibraryMs\\admin.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T07:19:37.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "user1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Csharp\\001libraryProject\\LibraryMs\\LibraryMs\\user1.cs",
+              "RelativeDocumentMoniker": "LibraryMs\\user1.cs",
+              "ToolTip": "D:\\Csharp\\001libraryProject\\LibraryMs\\LibraryMs\\user1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "LibraryMs\\user1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T07:19:21.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Dao.cs",
+              "DocumentMoniker": "D:\\Csharp\\001libraryProject\\LibraryMs\\LibraryMs\\Dao.cs",
+              "RelativeDocumentMoniker": "LibraryMs\\Dao.cs",
+              "ToolTip": "D:\\Csharp\\001libraryProject\\LibraryMs\\LibraryMs\\Dao.cs",
+              "RelativeToolTip": "LibraryMs\\Dao.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T00:45:06.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "data1.cs",
+              "DocumentMoniker": "D:\\Csharp\\001libraryProject\\LibraryMs\\LibraryMs\\data1.cs",
+              "RelativeDocumentMoniker": "LibraryMs\\data1.cs",
+              "ToolTip": "D:\\Csharp\\001libraryProject\\LibraryMs\\LibraryMs\\data1.cs",
+              "RelativeToolTip": "LibraryMs\\data1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T00:40:11.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Library_user.cs",
+              "DocumentMoniker": "D:\\Csharp\\001libraryProject\\LibraryMs\\LibraryMs\\Library_user.cs",
+              "RelativeDocumentMoniker": "LibraryMs\\Library_user.cs",
+              "ToolTip": "D:\\Csharp\\001libraryProject\\LibraryMs\\LibraryMs\\Library_user.cs",
+              "RelativeToolTip": "LibraryMs\\Library_user.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T00:37:27.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "data.tt",
+              "DocumentMoniker": "D:\\Csharp\\001libraryProject\\LibraryMs\\LibraryMs\\data.tt",
+              "RelativeDocumentMoniker": "LibraryMs\\data.tt",
+              "ToolTip": "D:\\Csharp\\001libraryProject\\LibraryMs\\LibraryMs\\data.tt",
+              "RelativeToolTip": "LibraryMs\\data.tt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-10T00:37:25.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "data.Context.tt",
+              "DocumentMoniker": "D:\\Csharp\\001libraryProject\\LibraryMs\\LibraryMs\\data.Context.tt",
+              "RelativeDocumentMoniker": "LibraryMs\\data.Context.tt",
+              "ToolTip": "D:\\Csharp\\001libraryProject\\LibraryMs\\LibraryMs\\data.Context.tt",
+              "RelativeToolTip": "LibraryMs\\data.Context.tt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-10T00:37:22.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "data.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\Csharp\\001libraryProject\\LibraryMs\\LibraryMs\\data.edmx",
+              "RelativeDocumentMoniker": "LibraryMs\\data.edmx",
+              "ToolTip": "D:\\Csharp\\001libraryProject\\LibraryMs\\LibraryMs\\data.edmx [Diagram1]",
+              "RelativeToolTip": "LibraryMs\\data.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-12-10T00:35:51.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "D:\\Csharp\\001libraryProject\\LibraryMs\\LibraryMs\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "LibraryMs\\Login.Designer.cs",
+              "ToolTip": "D:\\Csharp\\001libraryProject\\LibraryMs\\LibraryMs\\Login.Designer.cs",
+              "RelativeToolTip": "LibraryMs\\Login.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:41:48.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Csharp\\001libraryProject\\LibraryMs\\LibraryMs\\App.config",
+              "RelativeDocumentMoniker": "LibraryMs\\App.config",
+              "ToolTip": "D:\\Csharp\\001libraryProject\\LibraryMs\\LibraryMs\\App.config",
+              "RelativeToolTip": "LibraryMs\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-09T08:44:15.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Login.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Csharp\\001libraryProject\\LibraryMs\\LibraryMs\\Login.cs",
+              "RelativeDocumentMoniker": "LibraryMs\\Login.cs",
+              "ToolTip": "D:\\Csharp\\001libraryProject\\LibraryMs\\LibraryMs\\Login.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "LibraryMs\\Login.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T07:30:19.978Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
